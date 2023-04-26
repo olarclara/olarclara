@@ -1,9 +1,9 @@
 <h1>Hi, I'm Maria Clara 👋🏽</h1>
 <h3>A seasoned Software Engineer focused on crafting great UIs ✨</h3>
 
-- 🔭 I’m currently working at [CodeSandbox](https://codesandbox.io)
+- 🔭 I’m currently working at [Brex](https://brex.com)
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **three.js, SwiftUI**
 
 - 💬 Ask me about **ui, accessibility, react, typescript, css, state management, graphql**
 
